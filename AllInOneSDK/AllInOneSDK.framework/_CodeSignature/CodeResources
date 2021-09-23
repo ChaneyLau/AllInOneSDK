@@ -1196,21 +1196,13 @@
 		<data>
 		8gLGP69mUhxIWS9uGVRhjMBwMd8=
 		</data>
-		<key>EBBannerView.nib/objects-13.0+.nib</key>
+		<key>EBBannerView.nib</key>
 		<data>
-		sCQlpOB1GX7xEq3L5h1uctSi57E=
+		7snPcRtpkzDAOBoXIh8yCCD80bg=
 		</data>
-		<key>EBBannerView.nib/runtime.nib</key>
+		<key>EBBannerViewController.nib</key>
 		<data>
-		Gzys479FJ8Sc7N8QGOwfk9uCd/Q=
-		</data>
-		<key>EBBannerViewController.nib/objects-13.0+.nib</key>
-		<data>
-		9xg2mpD+8i1JY6smFL3aWMMBmzQ=
-		</data>
-		<key>EBBannerViewController.nib/runtime.nib</key>
-		<data>
-		7wZ3MHkq9slk9Vxjq75JHrv0yrA=
+		3Bi2sUdRunUWU/AhF6wRwyX6siA=
 		</data>
 		<key>EBMuteDetector.mp3</key>
 		<data>
@@ -1222,11 +1214,11 @@
 		</data>
 		<key>Headers/AllInOneSDKHelper.h</key>
 		<data>
-		eLsWgsETZKGZ0b0/I+XBEJErlAU=
+		2oBxwgK0w4/L1PZHtFNVBipXIs4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7Gy0TTuw/PGzQDR5fnhv7XYq984=
+		z8Ozgcspt6DvCCltgoR79Y6WprI=
 		</data>
 		<key>MJRefresh.bundle/arrow@2x.png</key>
 		<data>
@@ -4674,48 +4666,26 @@
 			gxWDBLOaqpkVsj8VzuTBY5g1X1vNT6dYskJtcRgzlR8=
 			</data>
 		</dict>
-		<key>EBBannerView.nib/objects-13.0+.nib</key>
+		<key>EBBannerView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sCQlpOB1GX7xEq3L5h1uctSi57E=
+			7snPcRtpkzDAOBoXIh8yCCD80bg=
 			</data>
 			<key>hash2</key>
 			<data>
-			1qF9WaQv233aWItKXNYMgggVDU+2EMFKK5hNdp1cqpY=
+			X0ImH5WivfsVe2yb/BeixUqHlMUdQKJdSaV63yVwvbw=
 			</data>
 		</dict>
-		<key>EBBannerView.nib/runtime.nib</key>
+		<key>EBBannerViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Gzys479FJ8Sc7N8QGOwfk9uCd/Q=
+			3Bi2sUdRunUWU/AhF6wRwyX6siA=
 			</data>
 			<key>hash2</key>
 			<data>
-			dvR4jPIuFyuoJK9qHPaf1c2P2+g2JMIVBwge+2h616U=
-			</data>
-		</dict>
-		<key>EBBannerViewController.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9xg2mpD+8i1JY6smFL3aWMMBmzQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			uhk9HkY7z+LTTpyyPTKBSRVSTM1BpWnrmX8Ep/RVpyA=
-			</data>
-		</dict>
-		<key>EBBannerViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7wZ3MHkq9slk9Vxjq75JHrv0yrA=
-			</data>
-			<key>hash2</key>
-			<data>
-			7cx3gbO8dBSbRMhpzpoPPNXQHtEX1mtr4I7nOeHSfYw=
+			91aRBx+H/8QSWhd8teXiNZX7VJb1NTANNQKHXBiAb9k=
 			</data>
 		</dict>
 		<key>EBMuteDetector.mp3</key>
@@ -4744,11 +4714,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eLsWgsETZKGZ0b0/I+XBEJErlAU=
+			2oBxwgK0w4/L1PZHtFNVBipXIs4=
 			</data>
 			<key>hash2</key>
 			<data>
-			MV11xclIiXIPRIGL/QlyHI/C09gZlwRbPxCDoD0D10E=
+			yghNUmfMcVeHjLKJNr8B0QF+WcXJR//wxZNxemcR2cs=
 			</data>
 		</dict>
 		<key>MJRefresh.bundle/arrow@2x.png</key>

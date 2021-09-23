@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AllInOneSDK'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'AllInOneSDK'
   s.homepage         = 'https://github.com/ChaneyLau/AllInOneSDK'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
@@ -31,10 +31,5 @@ Pod::Spec.new do |s|
   s.dependency 'UITextView+Placeholder', '~> 1.2'
   s.dependency 'WebViewJavascriptBridge', '~> 6.0'
   s.dependency 'FSCalendar'
-  
-
-  s.frameworks = 'UIKit','CoreMedia','AVFoundation','Foundation','CoreLocation','CoreTelephony','AddressBook','AudioToolbox','SystemConfiguration','QuartzCore','CoreGraphics','Security','GLKit','ExternalAccessory','JavaScriptCore','Contacts','CFNetwork','WebKit','Accelerate','MapKit','MobileCoreServices'
-  
-   s.libraries = 'z.1','z','c++','stdc++.6.0.9','iconv.2.4.0','z.1.2.5','icucore'
 
 end
